@@ -1,6 +1,3 @@
 # TestRepositoryFinTech
-<h1>HELLO</H1> 
-	<picture>pic_trulli.jpg</picture>
-<h2>Aidan</h2>
-<h3>Lol</h3>
-<link rel="stylesheet" type="text/css" href="">
+<h1>FinTech</h1>
+![test image](https://i.redd.it/eksdwbbn8py71.jpg)
